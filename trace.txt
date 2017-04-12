@@ -1,0 +1,6 @@
+[(x=0;y=0;),]
+Le but (x=4;y=0;) est atteint avec succés 
+Le  chemin parcouru est : 
+(x=0;y=0;)==> (x=4;y=0;)
+Le nombre de noeuds examinés est :2
+

@@ -1,0 +1,10 @@
+1:IF x<4 THEN x=4
+2:IF y<3 THEN y=3
+3:IF x>0 THEN x=0
+4:IF y>0 THEN y=0
+5:IF x+y>=4 and y>0 THEN y=y-4+x;x=4
+6:IF x+y>=3 and x>0 THEN x=x-3+y;y=3
+7:IF x+y<=4 and  y>0 THEN x=x+y;y=0
+8:IF x+y<=3 and x>0 THEN y=x+y;x=0
+9:IF x==0 and y==2 THEN x=2;y=0
+10:IF x==2 THEN x=0
