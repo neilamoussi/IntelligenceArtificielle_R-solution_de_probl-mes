@@ -17,7 +17,7 @@ les structures de données adéquates, l’algorithme d’unification et la
 méthode qui permet de déclencher tous les règles déclenchables d’un
 État courant.
 
-- calculer heuristique
+# calcule d'heuristique
 Pour calculer l’heuristique d’un état on a utilisée l’api de scripting java en utilisant
 l’objet ScriptEngine plus précisent la méthode eval() qui prend en compte un
 argument qui est une chaîne de caractères. Si cette chaîne représente une
