@@ -1,4 +1,4 @@
-# IntelligenceArtificielle_Résolution_de_problémes
+# IntelligenceArtificielle_Résolution_des_problémes
 
 - Cette application est developpée en JAVA
 - Cette application peut fonctionner avec n'importe quelle base de connaissances en entrée.
